@@ -17,4 +17,4 @@ Shift Baru  : D
 
 ## Video/gif Demo Aplikasi
 
-![Demo Navigasi](docs/demo.gif)
+![Demo Navigasi](docs/demo_nav.gif)
