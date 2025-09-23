@@ -2,5 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="colorPrimary">#4314FF</color>
+    <color name="colorPrimary">#0074FF</color>
+    <color name="colorSecondary">#FFFDD500</color>
+<!--    <color nama="material_dinamic_primary90">#8CABC8</color>-->
 </resources>

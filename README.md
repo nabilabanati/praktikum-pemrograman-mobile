@@ -1,11 +1,20 @@
-# Identitas
+# Tugas Praktikum Pemograman 
+
+## Identitas
 
 Nama        : Nabila Rizki Banati
 NIM         : H1D023086
 Shift Awal  : C
 Shift Baru  : D
 
-# Screenshot Hasil Pengerjaan
-## Tugas 1 Pertemuan 2
+# Tugas 1 Pertemuan 2
 
-![Screenshot Tugas 1](images/hasil.png)
+## Screenshot Hasil Pengerjaan
+
+![Screenshot Tugas 1](docs/hasil.png)
+
+## Tugas 2 Pertemuan 3
+
+## Video/gif Demo Aplikasi
+
+![Demo Navigasi](docs/demo.gif)
