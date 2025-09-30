@@ -12,10 +12,16 @@ Shift Baru  : D
 
 ## Screenshot Hasil Pengerjaan
 
-![Screenshot Tugas 1](docs/hasil.png)
+![Screenshot Tugas 1](docs/tugas1.png)
 
 # Tugas 2 Pertemuan 3
 
 ## Video/ gif Demo Aplikasi
 
-![Demo_Navigasi_1](docs/demo_nav.gif)
+![Demo_Tugas_2](docs/tugas2.gif)
+
+# Tugas 3 Pertemuan 4
+
+## Video/ gif Demo Aplikasi
+
+![Demo_Tugas_3](docs/tugas3.gif)
