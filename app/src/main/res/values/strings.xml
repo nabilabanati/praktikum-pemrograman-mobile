@@ -45,12 +45,14 @@
     <string name="desc_lulusan">
         Lulusan Program Studi Informatika Unsoed sebagai besar bekerja sebagai tenaga ahli di bidang perekayasaan perangkat lunak (Promgramer, Analis Sistem, Manajer Proyek, Database Administrator), Wirausahawan Informatika dan Dosen/Peneliti.
     </string>
-
+    <string name="daftar_buku">
+        Daftar Buku
+    </string>
     <style name="btn_back">
         Kembali</style>
-
     <string name="back">
         Kembali
     </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

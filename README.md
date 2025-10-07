@@ -25,3 +25,9 @@ Shift Baru  : D
 ## Video/ gif Demo Aplikasi
 
 ![Demo_Tugas_3](docs/tugas3.gif)
+
+# Tugas 4 Pertemuan 5
+
+## Video/ gif Demo Aplikasi
+
+![Demo_Tugas_4](docs/tugas4.gif)
